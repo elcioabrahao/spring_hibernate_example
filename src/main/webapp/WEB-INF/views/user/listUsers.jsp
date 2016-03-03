@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Lista de Usu·rios</title>
+<title>Lista de Usu√°rios</title>
 
 <link rel="stylesheet"
 	href='<c:url value="/web-resources/css/pure-0.4.2.css"/>'>
